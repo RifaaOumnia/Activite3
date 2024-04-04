@@ -22,7 +22,7 @@ public class Tp3Application implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         /////////////Const sana Param////////////////
-        //Patient	patient=new Patient();
+        ///Patient	patient=new Patient();
         //		patient.setId(null);
         //		patient.setNom("Mohamed");
         //		patient.setDateNaissance(new Date());
