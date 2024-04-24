@@ -39,8 +39,8 @@ public class Tp3Application implements CommandLineRunner {
         ////				.score(56)
         ////				.malade(true)
         ////				.build();
-        patientRepository.save(new Patient(null,"Patient1",new Date(),false,1));
-        patientRepository.save(new Patient(null,"Patient2",new Date(),false,2));
-        patientRepository.save(new Patient(null,"Patient3",new Date(),false,3));
+       // patientRepository.save(new Patient(null,"Patient1",new Date(),false,122));
+    //    patientRepository.save(new Patient(null,"Patient2",new Date(),false,222));
+        //patientRepository.save(new Patient(null,"Patient3",new Date(),false,322));
     }
 }
